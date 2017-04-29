@@ -22,7 +22,12 @@ html, body {
 	}
 	#portfolio {
 		display: none !important;
+		background-attachment: scroll;
 	}
+	#home{
+		background-attachment: scroll;}
+	#about{background-attachment: scroll;}
+		
 }
 
 @media screen and (max-width: 600px){
