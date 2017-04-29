@@ -30,7 +30,7 @@ html, body {
 		margin:0;}
 	.intro-real{margin: 0 !important;
 		padding: 0 !important;}
-	html, body{font: 200 10px/1.2 !important;}
+	html, body{font: 200 10px/1.2 'Raleway', sans-serif; !important;}
 		
 }
 
