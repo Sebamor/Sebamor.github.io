@@ -14,6 +14,9 @@ html, body {
 	#portfolio .row{
 	text-align: center;
 	}
+	.row .rwork{
+	margin-bottom: 5px;
+}
 }
 
 @media screen and (max-width: 600px){
@@ -580,10 +583,6 @@ z-index: 0;
 
 .great-divide {
 	margin-bottom: 20px;
-}
-
-.row .rwork{
-	ovflow: scroll;
 }
 
 
