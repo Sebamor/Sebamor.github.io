@@ -23,6 +23,11 @@ html, body {
 	#portfolio {
 		display: none !important;
 	}
+	.iconbox-icon{
+		display:none;}
+	.serv-box{
+		padding:0;
+		margin:0;}
 		
 }
 
