@@ -8,7 +8,7 @@ if(isset($_POST['message'])){
     
 	
 	$to      = 'sebamor12@gmail.com';
-	$subject = 'Amore Portfolio Contact';
+	$subject = 'PoM Website Form';
 
 	$headers = 'From: '. $email . "\r\n" .
     'Reply-To: '. $email . "\r\n" .
