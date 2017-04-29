@@ -16,7 +16,10 @@ html, body {
 	}
 	.row .rwork{
 	margin-bottom: 10px;
-}
+	}
+	.hidden1{
+		display: block !important;
+	}
 }
 
 @media screen and (max-width: 600px){
