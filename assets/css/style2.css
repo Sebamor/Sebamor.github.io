@@ -11,6 +11,9 @@ html, body {
 	.rwork img{
 		height: 100px;
 	}
+	#portfolio .row{
+	text-align: center;
+	}
 }
 
 @media screen and (max-width: 600px){
