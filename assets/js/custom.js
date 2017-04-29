@@ -39,6 +39,20 @@
 			offset: 70
 		})
 
+		//Hide Elements
+		$('.unhide1').mouseleave(function() {
+     		$(this).find('.hidden1').hide();
+   		})
+   		$('.unhide1').mouseenter(function(e) {
+   			e.preventDefault;
+
+        	$(this).find('.hidden1').show();
+    	});
+
+   		$(".rwork").click(false);
+   		//Expand Img
+
+
         //Skills    
         //var color = $('#home').css('backgroundColor');
 
