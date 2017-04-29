@@ -112,6 +112,12 @@
 		} else {
 			$('#home').parallax('50%', 0.1);
 		}
+		if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+			$('#about').css({'background-attachment': 'scroll'});
+		}
+		if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+			$('#services').css({'background-attachment': 'scroll'});
+		}
 
 
 		/* ---------------------------------------------- /*
