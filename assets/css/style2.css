@@ -20,6 +20,9 @@ html, body {
 	.hidden1{
 		display: block !important;
 	}
+	#portfolio {
+		display: none !important;
+	}
 }
 
 @media screen and (max-width: 600px){
